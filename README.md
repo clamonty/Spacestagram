@@ -5,6 +5,8 @@ Users can like their favorite photos and have them persist on page load, as well
 
 Users can also at any point read more about any photo, showing the date it was taken, the photographer source, as well as a description of the image.
 
+## Plans for future updates
+In the future I plan to add a 'liked photos' page where users can view all the photos they have currently liked from NASA's pictures of the day.
 ## Dependencies
 
 ### `react-router-dom 5.2.0`
